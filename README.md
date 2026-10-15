@@ -2,9 +2,9 @@
 <tr>
 <td width="55%">
 
-<h2>Hello, I'm Gustavo Santos, welcome 👋</h2>
+<h2>Hello, I'm Tomás Cabral, welcome 👋</h2>
 
-<p><b>💻 Full-stack Developer with React Native, ReactJS and NodeJS</b></p>
+<p><b>💻</b></p>
 
 <ul>
   <li>🌱 I'm currently learning <b>NextJS and Jest</b></li>
@@ -14,7 +14,7 @@
 
 <p><b>📱 Social</b></p>
 
-<a href="https://www.linkedin.com/in/YOUR-PROFILE">
+<a href="https://www.linkedin.com/in/YOUR-PROFILE](https://www.linkedin.com/in/tomas-cabral03/">
   <img src="https://img.shields.io/badge/-Linkedin-000000?style=flat&logo=linkedin&logoColor=white" alt="Linkedin" />
 </a>
 
@@ -26,6 +26,6 @@
 </table>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=gustavos00&show_icons=true&theme=dark&hide_border=false" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavos00&layout=compact&theme=dark" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=whrio3&show_icons=true&theme=dark&hide_border=false" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=whrio3&layout=compact&theme=dark" />
 </p>

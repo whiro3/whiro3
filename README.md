@@ -7,6 +7,6 @@
 
 </td>
 <p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=whiro3&show_icons=true&theme=dark&hide_border=false" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=whiro3&show_icons=true&theme=orange&hide_border=false" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=whiro3&layout=compact&theme=dark" />
 </p>

@@ -2,14 +2,12 @@
 <tr>
 <td width="55%">
 
-<h2>Hello, I'm Tomás, welcome 👋</h2>
-
-<p><b>💻</b></p>
+<h2>Hello, I'm Tomás.</h2>
 
 <ul>
-  <li>🌱 I'm currently learning <b>t</b></li>
-  <li>💬 Ask me about <b>React, React Native, NodeJS, PHP and Typescript</b></li>
-  <li>📫 My <a href="https://www.linkedin.com/in/tomas-cabral03">linkedin</a></li>
+  <li>🌱<b>t</b></li>
+  <li>💬</li>
+  <li>📫 My <a href="https://www.linkedin.com/in/tomas-cabral03/">linkedin</a></li>
 </ul>
 
 <p><b>📱 Social</b></p>

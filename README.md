@@ -1,17 +1,6 @@
 <table>
 <tr>
 <td width="55%">
-
-<h2>Hello, I'm Tomás.</h2>
-
-<ul>
-  <li>🌱<b>t</b></li>
-  <li>💬</li>
-  <li>📫 My <a href="https://www.linkedin.com/in/tomas-cabral03/">linkedin</a></li>
-</ul>
-
-<p><b>📱 Social</b></p>
-
 <a href="https://www.linkedin.com/in/YOUR-PROFILE](https://www.linkedin.com/in/tomas-cabral03/">
   <img src="https://img.shields.io/badge/-Linkedin-000000?style=flat&logo=linkedin&logoColor=white" alt="Linkedin" />
 </a>
